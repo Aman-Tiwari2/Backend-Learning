@@ -1,0 +1,9 @@
+Know here we are going to work on notes app in simple format
+using restfull api's 
+
+
+
+Sending data to frontend to backend
+req.body()
+req.query()
+req.params()
