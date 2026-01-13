@@ -16,4 +16,3 @@ app.get('/about', (req, res)=>{
 app.listen(3000, () => {
     console.log("Port is running successfully on PORT 3000")
 })
-
